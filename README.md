@@ -18,7 +18,7 @@ Feel free to contribute to this repository by adding new papers or improving exi
 4. Ensure the link leads to a freely accessible version of the paper.
 5. Create a pull request.
 
-Ensure that you follow the CODE OF CONDUCT.
+Ensure that you follow the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) at all times.
 
 ## License
 
