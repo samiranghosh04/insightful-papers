@@ -12,9 +12,12 @@ This is a curated collection of freely available research papers and white paper
 
 Explore research papers based on different categories:
 
-- [Algorithms](categories/algorithms.md)
-- [Web Development](categories/web-development.md)
-- [Machine Learning](categories/machine-learning.md)
+- [Scalability and Infrastructure](papers/scalability-and-infrastructure.md)
+- [Machine Learning and Data Processing](papers/machine-learning-and-data-processing.md)
+- [Database Systems](papers/database-systems.md)
+- [Graph Databases](papers/graph-databases.md)
+- [Big Data Technologies](papers/big-data-technologies.md)
+
   <!-- Add more categories as needed -->
 
 ## Contribution Guidelines
