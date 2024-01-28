@@ -58,7 +58,7 @@
 # Discord
 - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages): A blog on how and why Discord migrated from Cassandra to ScyllaDB in just 9 days and its aftermath.
 
-# Misc
+# Miscellaneous
 - [Monolith Embedding in real-time](https://arxiv.org/pdf/2209.07663.pdf): Strategies for embedding real-time capabilities in monolithic architectures.
 - [Scalability at what COST](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf): An analysis of the costs associated with achieving scalability in distributed systems.
 - [Design Patterns - Abstraction and Reuse of Object-Oriented Design](https://cseweb.ucsd.edu//~wgg/CSE210/ecoop93-patterns.pdf): An article explaining OOD patterns.
