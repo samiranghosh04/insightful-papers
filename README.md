@@ -14,7 +14,7 @@ Feel free to contribute to this repository by adding new papers or improving exi
 
 1. Fork the repository.
 2. Add your contribution in the papers.md file.
-3. Provide a clear title, publication date, and a brief description.
+3. Provide a clear title and a brief description.
 4. Ensure the link leads to a freely accessible version of the paper.
 5. Create a pull request.
 
