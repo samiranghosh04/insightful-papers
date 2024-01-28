@@ -11,6 +11,6 @@ This is a curated collection of freely available research papers and white paper
 
 ## License
 
-This repository is licensed under [MIT License](LICENSE.md). By contributing, you agree to abide by the terms of this license.
+This repository is licensed under [MIT License](LICENSE). By contributing, you agree to abide by the terms of this license.
 
 Happy learning and contributing!
