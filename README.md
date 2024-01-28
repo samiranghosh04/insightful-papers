@@ -4,31 +4,21 @@ This is a curated collection of freely available research papers and white paper
 
 ## Table of Contents
 
-- [Categories](#categories)
+- [Papers](papers.md)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
-
-## Categories
-
-Explore research papers based on different categories:
-
-- [Scalability and Infrastructure](papers/scalability-and-infrastructure.md)
-- [Machine Learning and Data Processing](papers/machine-learning-and-data-processing.md)
-- [Database Systems](papers/database-systems.md)
-- [Graph Databases](papers/graph-databases.md)
-- [Big Data Technologies](papers/big-data-technologies.md)
-
-  <!-- Add more categories as needed -->
 
 ## Contribution Guidelines
 
 Feel free to contribute to this repository by adding new papers or improving existing ones. Follow these guidelines:
 
 1. Fork the repository.
-2. Add your contribution in the relevant category.
+2. Add your contribution in the papers.md file.
 3. Provide a clear title, publication date, and a brief description.
 4. Ensure the link leads to a freely accessible version of the paper.
 5. Create a pull request.
+
+Ensure that you follow the CODE OF CONDUCT.
 
 ## License
 
