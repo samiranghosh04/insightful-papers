@@ -5,6 +5,7 @@ This is a curated collection of freely available research papers and white paper
 ## Table of Contents
 
 - [Papers](papers.md)
+- [Sources](sources.md)
 - [Contribution Guidelines](CONTRIBUTING.md)
 - [License](#license)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
